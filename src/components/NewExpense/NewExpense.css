@@ -1,6 +1,6 @@
 .new-expense {
     /* background-color: peachpuff; */
-        background-color: burlywood;
+    background-color: burlywood;
 
     padding: 1rem;
     margin: 2rem auto;
@@ -24,8 +24,8 @@
 
 .new-expense button:hover,
 .new-expense button:active {
-    background-color: lightgray;
-    border-color: lightgray;
+    background-color: goldenrod;
+    border-color: goldenrod;
 }
 
 .new-expense button.alternative {
