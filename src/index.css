@@ -10,5 +10,7 @@ html {
 
 body {
     margin: 0;
-    background-color: lightgray;
+    background-color: cornsilk;
+    color: cornsilk;
+    /* background-color: bisque; */
 }

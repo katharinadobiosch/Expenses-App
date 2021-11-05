@@ -1,5 +1,7 @@
 .new-expense {
-    background-color: pink;
+    /* background-color: peachpuff; */
+        background-color: burlywood;
+
     padding: 1rem;
     margin: 2rem auto;
     width: 50rem;
@@ -14,8 +16,8 @@
     cursor: pointer;
     padding: 1rem 2rem;
     border: 1px solid lightgray;
-    background-color: lightgray;
-    color: 220131;
+    background-color: peru;
+    color: cornsilk;
     border-radius: 12px;
     margin-right: 1rem;
 }
@@ -27,7 +29,7 @@
 }
 
 .new-expense button.alternative {
-    color: #220131;
+    color: cornsilk;
     border-color: transparent;
     background-color: transparent;
 }
